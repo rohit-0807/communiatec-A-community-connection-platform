@@ -95,7 +95,7 @@ Communiatec employs multiple layers of protection:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rohit-0807/Communiatec.git
+[git clone https://github.com/rohit-0807/Communiatec.git](https://github.com/rohit-0807/communiatec-A-community-connection-platform.git)
 cd Communiatec
 ```
 
