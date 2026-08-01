@@ -95,7 +95,7 @@ Communiatec employs multiple layers of protection:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ketanayatti/Communiatec.git
+git clone https://github.com/rohit-0807/Communiatec.git
 cd Communiatec
 ```
 
@@ -149,15 +149,3 @@ Contributions are what make the open source community such an amazing place to l
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
----
-
-## 📞 **Contact**
-
-**Ketan Ayatti** - [GitHub Profile](https://github.com/ketanayatti)
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/ketanayatti/Communiatec">
-    <img src="https://img.shields.io/badge/Star_This_Repo-⭐-yellow?style=for-the-badge" alt="Star this repo" />
-  </a>
-</div>
